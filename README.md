@@ -15,3 +15,8 @@
 * Build a [Personal Portfolio Webpage](https://codepen.io/Mishra121/pen/GRpxVdb)
 
 * [Certificate](https://www.freecodecamp.org/certification/mishra121/responsive-web-design)
+
+
+### JavaScript Algorithms and Data Structures 
+
+* [Certificate](https://www.freecodecamp.org/certification/mishra121/javascript-algorithms-and-data-structures)
