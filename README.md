@@ -1,4 +1,4 @@
-<h1 align='center'>Freecodecamp Challenges</h1>
+<h1 align='center'>Freecodecamp Challenges :rocket:</h1>
 <h4 align ='center'>All the projects or challenges done to recieve the freecodecamp certifications</h4>
 
 
@@ -20,3 +20,8 @@
 ### JavaScript Algorithms and Data Structures 
 
 * [Certificate](https://www.freecodecamp.org/certification/mishra121/javascript-algorithms-and-data-structures)
+
+
+### Front End Libraries Projects
+
+* Build a [Random Quote Machine](https://codepen.io/Mishra121/full/jOqKadZ) using React :dizzy:
