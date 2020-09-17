@@ -25,3 +25,5 @@
 ### Front End Libraries Projects
 
 * Build a [Random Quote Machine](https://codepen.io/Mishra121/full/jOqKadZ) using React :dizzy:
+
+* Build a [Markdown Previewer](https://codepen.io/Mishra121/pen/BaKOaBe) using React :memo:
