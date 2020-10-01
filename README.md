@@ -29,3 +29,5 @@
 * Build a [Markdown Previewer](https://codepen.io/Mishra121/pen/BaKOaBe) using React :memo:
 
 * [Basic Drum Machine](https://codepen.io/Mishra121/pen/eYZQMxB) using react
+
+* Build a [JavaScript Calculator](https://codepen.io/Mishra121/full/yLOwwQG) with vanilla javascript 
