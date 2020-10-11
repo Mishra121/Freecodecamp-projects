@@ -31,3 +31,7 @@
 * [Basic Drum Machine](https://codepen.io/Mishra121/pen/eYZQMxB) using react
 
 * Build a [JavaScript Calculator](https://codepen.io/Mishra121/full/yLOwwQG) with vanilla javascript 
+
+* Build [25 + 5 Clock](https://codepen.io/Mishra121/full/BazaMwd) using React
+
+* [Certificate](https://www.freecodecamp.org/certification/mishra121/front-end-libraries)
