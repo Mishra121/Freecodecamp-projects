@@ -65,3 +65,10 @@
 * Build a File Metadata Microservice
 
 * [Certificate](https://www.freecodecamp.org/certification/mishra121/apis-and-microservices)
+
+
+### freecodecamp certification
+
+* [Link](https://www.freecodecamp.org/certification/mishra121/full-stack) :fire:
+
+![Certificate image](./img/fccscreen.png)
